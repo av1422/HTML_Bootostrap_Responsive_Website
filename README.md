@@ -1,2 +1,3 @@
 # Tribute-Page
-Pure HTML page With BootStrap Classes.  
+Responsive HTML page With BootStrap Classes. 
+No CSS used.
